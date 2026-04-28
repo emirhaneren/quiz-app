@@ -1,0 +1,12 @@
+.dropdown-container {
+    
+}
+.dropdown-select{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+}
